@@ -1,3 +1,3 @@
-module github.com/leeqiang250/golang
+module golang
 
 go 1.13
